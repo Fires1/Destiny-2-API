@@ -12,8 +12,6 @@ It works with $ref as well.
 
 # Todo:
 
-[ ] Document code
-
-[ ] Clean up code
-
-[ ] Endpoint gen
+- [ ] Document code
+- [ ] Clean up code
+- [ ] Endpoint gen
