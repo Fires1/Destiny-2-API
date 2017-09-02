@@ -15,3 +15,7 @@ It works with $ref as well.
 - [ ] Document code
 - [ ] Clean up code
 - [ ] Endpoint gen
+
+## Why?
+
+Because of DestinySharp...soon to be rewritten.
