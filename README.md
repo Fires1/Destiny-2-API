@@ -1,4 +1,4 @@
-# Destiny 2 API Entities
+# Destiny 2 API
 
 A collection of automatically generated Entities taken from the [Destiny 2 API Documentation](https://github.com/Bungie-net/api/blob/master/openapi.json).
 
