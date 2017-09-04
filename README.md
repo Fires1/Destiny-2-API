@@ -15,4 +15,4 @@ It works with $ref as well.
 - [ ] Document code
 - [ ] Clean up code
 - [x] Endpoint gen
-- [ ] Fix the "array" types in Actual Entities so it isn't list<object> and properly reflects what it contains
+- [x] Fix the "array" types in Actual Entities so it isn't list<object> and properly reflects what it contains
